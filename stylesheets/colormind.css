@@ -1,0 +1,24 @@
+body {
+    color: #8E8E8E;
+    background-color: #191919;
+}
+
+.firstgridcolorbox {
+    height: 200px;
+}
+
+
+#mainstickynavbar {
+    background-color: #111111 !important;
+    font-size: 14px;
+    font-family: ;
+}
+a.adsdiv {
+    font-size: 14px;
+}
+.serialimgnokey {
+    background-color: #111111;
+}
+.emaildiv {
+    padding-top: 75px;
+}
